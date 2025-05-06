@@ -2,9 +2,11 @@
 
 # Advanced_Data_Visualization_&_Analysis_HTML
 
+Heart disease is a leading cause of mortality worldwide, making accurate prediction and early detection crucial. In this presentation, we'll explore how machine learning models can be leveraged to identify key risk factors and accurately predict the presence of heart disease. Through a comprehensive analysis of a real-world dataset, we'll uncover important insights and evaluate the performance of various classification algorithms to identify the best- performing model for this task.
+
 ![Image](https://github.com/user-attachments/assets/f156ace6-6771-468e-b182-8c42adae26a1)
 
-![Image](https://github.com/user-attachments/assets/e571bc3c-c58b-4273-beec-24281e46aac8)
+![Image](https://github.com/user-attachments/assets/2e556be3-7e8b-4b7f-b5e9-2bb762fdd290)
 
 ![Image](https://github.com/user-attachments/assets/2f4d0ca6-0fd8-489d-8fbb-27f1ad1bdf55)
 
@@ -12,7 +14,6 @@
 
 [Heart_disease_prediction.docx](https://github.com/user-attachments/files/17878519/Heart_disease_prediction.docx)
 
-Heart disease is a leading cause of mortality worldwide, making accurate prediction and early detection crucial. In this presentation, we'll explore how machine learning models can be leveraged to identify key risk factors and accurately predict the presence of heart disease. Through a comprehensive analysis of a real-world dataset, we'll uncover important insights and evaluate the performance of various classification algorithms to identify the best- performing model for this task.
 
 # Project Overview:
 
